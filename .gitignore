@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+*.env
+
+# Tapo reports
+p110_solar_energy.txt
+p110_history/
+*.log
+
+# OS/editor files
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
